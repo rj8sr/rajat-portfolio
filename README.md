@@ -1,12 +1,37 @@
-# React + Vite
+# Rajat Sharma - Software Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, responsive React portfolio website built with Vite, showcasing the professional profile, skills, experience, certifications, and contact information of Rajat Sharma, a Java Backend Developer and Cloud Enthusiast.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clean, modern UI with dark theme and vibrant accent colors
+- Responsive layout optimized for desktops, tablets, and mobile devices
+- Parallax scrolling and smooth animations using `react-scroll-parallax`, `framer-motion`, and `AOS`
+- Fully modular React functional components for easy maintenance and expansion
+- Interactive animated skill bars
+- Clear, structured professional experience and education sections
+- Contact details with social media and email links
+- Ready for deployment on GitHub Pages or any static hosting
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18 (functional components with hooks)
+- Vite (fast bundler and dev server)
+- Framer Motion (animations)
+- react-scroll-parallax (parallax scrolling effects)
+- AOS (scroll animations)
+- React Icons
+- CSS (custom modern styles with responsive design)
+- GitHub Pages for deployment
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or later recommended)
+- npm or yarn package manager
+
+### Installation
+
+1. Clone this repository or download the project files
+
