@@ -1,6 +1,7 @@
 {
   "name": "rajat-portfolio",
   "version": "1.0.0",
+  "homepage": "https://rj8sr.github.io/rajat-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
